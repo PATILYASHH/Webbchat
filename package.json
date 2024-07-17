@@ -1,18 +1,27 @@
 {
-  "name": "Socketio-Chat-Template",
+  "name": "socketio-chat-template",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "html": "^1.0.0",
     "server": "^1.0.27",
-    "socket.io": "^2.3.0"
-  }
+    "socket.io": "^2.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PATILYASHH/Webbchat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PATILYASHH/Webbchat/issues"
+  },
+  "homepage": "https://github.com/PATILYASHH/Webbchat#readme",
+  "description": ""
 }
