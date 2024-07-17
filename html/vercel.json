@@ -1,15 +1,16 @@
 {
   "version": 2,
+  "name": "webbchat",
   "builds": [
     {
-      "src": "server.js",
+      "src": "main/package.json",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/"
+      "dest": "/main/$1"
     }
   ]
 }
