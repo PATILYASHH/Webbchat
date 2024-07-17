@@ -88,3 +88,7 @@ start = "typescript-language-server --stdio"
 [[ports]]
 localPort = 3000
 externalPort = 80
+
+[auth]
+pageEnabled = true
+buttonEnabled = false
