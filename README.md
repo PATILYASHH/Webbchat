@@ -74,4 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the developers of [Socket.IO](https://socket.io/) for providing an excellent library for real-time web applications.
 - Inspiration for this project came from the need for simple, effective real-time communication tools.
 
-For any questions or support, please contact [patilyasshh@gmail.com](patilyasshh@gmailk.com).
+For any questions or support, please contact [patilyasshh@gmail.com](patilyasshh@gmail.com).
